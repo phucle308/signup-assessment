@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Sign Up Assessment",
+    "slug": "signup-assessment",
+    "scheme": "signupassessment",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router"],
+    "experiments": { "typedRoutes": true }
+  }
+}
